@@ -7,5 +7,5 @@
 
 ### To run server type the following command
 ```bash
-django manage.py runserver
+python manage.py runserver
 ```
